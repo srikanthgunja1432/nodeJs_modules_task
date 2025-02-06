@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-//fs.mkdir('cseb0602', (err)=>{if(err) console.log(err)} )
+fs.mkdir('cseb0602', (err)=>{if(err) console.log(err)} )
 
 const fs_def="The fs (File System) module in Node. js is a powerful tool for working with the file system, allowing you to interact with files and directories on your server"
 fs.writeFile('nsf.txt',fs_def,(err)=>{
