@@ -1,0 +1,2 @@
+The fs (File System) module in Node. js is a powerful tool for working with the file system, allowing you to interact with files and directories on your server
+new data
